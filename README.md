@@ -1,2 +1,2 @@
 # odin-recipes
-Creating a website to hold recipies to demonstrate understanding of HTML
+Creating a website to hold recipes to demonstrate understanding of HTML
